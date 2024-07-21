@@ -3,7 +3,7 @@ const cheerio = require('cheerio');
 const sqlite3 = require('sqlite3').verbose();
 const fs = require('fs');
 const readline = require('readline');
-const { Parser } = require('json2csv'); // Adicione json2csv para salvar em CSV
+const { Parser } = require('json2csv'); 
 
 // Conectando ao banco de dados SQLite
 const db = new sqlite3.Database('./netshoes.db', (err) => {
