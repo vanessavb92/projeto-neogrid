@@ -69,3 +69,7 @@ netshoes.db:
 
 scraping_results.csv:
 Arquivo CSV onde os dados dos produtos são também armazenados.
+<<<<<<< HEAD
+=======
+
+>>>>>>> e7d6d743e9ecfcb7994c700d402f361fcc1c0642
